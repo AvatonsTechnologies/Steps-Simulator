@@ -7,7 +7,7 @@ The functions 'rit_foot' and 'lft_foot' are not used at the moment.
 
 """
 
-#from basic_units import cm
+from basic_units import cm
 #import numpy as np
 from matplotlib import patches
 import matplotlib.pyplot as plt
